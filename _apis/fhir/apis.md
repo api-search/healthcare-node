@@ -1,4 +1,3 @@
----
 name: Fast Healthcare Interoperability Resources (FHIR)
 description: >-
   FHIR is a platform specification that defines a set of capabilities for use
@@ -9,8 +8,8 @@ description: >-
   implementing a solution based on FHIR.
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 url: https://raw.githubusercontent.com/apis-json/artisanal/main/apis/template.yml
-created: 2024-07-11
-modified: 2024-07-11
+created: 2024-07-11T00:00:00.000Z
+modified: 2024-07-11T00:00:00.000Z
 specificationVersion: '0.18'
 tags:
   - Healthcare
@@ -45,4 +44,3 @@ overlays:
   - type: APIs.io Search
     url: overlays/apis-io-search.yml
 aid: fast-healthcare-interoperability-resources-fhir
----
